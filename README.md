@@ -1,4 +1,4 @@
-# web crawling. Pesquisando preços de produtos.
+# Web scraping. Pesquisando preços de produtos.
 
 # TODO
 preencher a tabela com os produtos e a faixa de precos desejados com  minimo e maximo.
